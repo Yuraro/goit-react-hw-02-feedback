@@ -15,4 +15,5 @@ export const Title = styled.h1`
     background-color: #d7e3dd;
     padding: 10px;
     border: 1px solid #10080d;
+    border-radius: 10px;
 `;
